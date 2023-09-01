@@ -25,4 +25,5 @@ reverse = 0;
 }
 
 let ans = reverseThis(1234);
-console.log(ans);
+let ans1 = reverseThis(8987654);
+console.log(ans1);

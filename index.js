@@ -15,6 +15,22 @@
 // 10. Write a javaScript function which accepts an argument and returns the type.
 // 11. Write a javaScript function to get the number of occurrence of each letter in specified string
 
+// Loops
+
+// 12. loop an array and add all members of it
+// 13. In an array of numbers and strings, only add those members which are not strings
+// 14. Loop an array of object and remove all object's which don't have gender's value male
+
+// Arrays
+
+// 15. write a javaScript function to clone array
+// 16. write a javascript  function to get the first element of an array, passing a parameter 'n' will return the first 'n' element of the array.
+// 17. write a javascript  function to get the last element of an array, passing a parameter 'n' will return the last 'n' element of the array.
+// 18. write a javascript  function program to find the most frequent item of an array
+
+
+
+
 
 
 

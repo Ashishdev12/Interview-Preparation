@@ -27,6 +27,11 @@
 // 16. write a javascript  function to get the first element of an array, passing a parameter 'n' will return the first 'n' element of the array.
 // 17. write a javascript  function to get the last element of an array, passing a parameter 'n' will return the last 'n' element of the array.
 // 18. write a javascript  function program to find the most frequent item of an array
+// 19. write a javascript program to shuffle an array
+// 20. write a javascript program to compute the union of two arrays
+
+
+
 
 
 

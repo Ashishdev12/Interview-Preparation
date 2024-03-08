@@ -30,16 +30,3 @@
 // 19. write a javascript program to shuffle an array
 // 20. write a javascript program to compute the union of two arrays
 
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -6,6 +6,10 @@ function leapYear(year){
 
 console.log(leapYear(2024));
 console.log(leapYear(2025));
+console.log(leapYear(2026));
+console.log(leapYear(2027));
+console.log(leapYear(2028));
+console.log(leapYear(2029));
 
 // Explanation
 /*This JavaScript code defines a function named leapyear that determines whether a given year is a leap year. A leap year is a year that is evenly divisible by 4, except for years that are divisible by 100 but not divisible by 400.

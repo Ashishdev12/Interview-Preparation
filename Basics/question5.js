@@ -23,6 +23,7 @@ function animate_string(id){
        // Update the text content of the text node with the modified string
 
        node.data = initText;
+      
     
  }, 300)
 }

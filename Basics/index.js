@@ -37,3 +37,13 @@ Expected Output :
 // 14. Write a JavaScript exercise to get the filename extension. 
 
 // 15. Write a JavaScript program to get the difference between a given number and 13, if the number is broader than 13 return double the absolute difference.  
+
+// 16. Write a JavaScript program to compute the sum of the two given integers. If the two values are the same, then return triple their sum. 
+
+// 17. Write a JavaScript program to compute the absolute difference between a specified number and 19. Returns triple the absolute difference if the specified number is greater than 19.
+
+// 18. Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.  
+
+// 19. Write a JavaScript program to check whether a given integer is within 20 of 100 or 400.  
+
+// 20. Write a JavaScript program to check two given integers whether one is positive and another one is negative.  

@@ -15,7 +15,7 @@ function animate_string(id){
   let  initText = node.data;
   console.log(initText);
 
- // Set up an interval to rotate the characters in the text every 100 milliseconds
+ // Set up an interval to rotate the characters in the text every 300 milliseconds
  setInterval(()=>{
      // move last character to the beginning of the string
      initText = initText[initText.length-1] + initText.substring(0, initText.length - 1);

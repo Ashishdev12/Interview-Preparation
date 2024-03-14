@@ -12,11 +12,11 @@ let today = new Date();
 let  day = today.getDate();
 
 //Get the Month (adding 1 because  January is 0)
-let mm = today.getMonth() + 1;
+let month = today.getMonth() + 1;
 
 // Get the year
 
-let yy = today.getFullYear();
+let year = today.getFullYear();
 
 // Add leading zero if the day less then 10
 
@@ -24,11 +24,11 @@ if(day < 10){
   day = '0' + day;
 }
 
-if(mm < 10){
-  mm = '0' + mm;
+if(month < 10){
+  month = '0' + month;
 }
 
 // Format the date as mm-dd-yyyy and log it
 
-today = mm  + '-' + day + '-' + yy;
+today = month  + '-' + day + '-' + year;
 console.log('Today\'s date in format MM-DD-YYYY: ', today);

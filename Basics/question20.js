@@ -9,6 +9,6 @@ function checkInteger(num1, num2){
   }
 }
 
-console.log(checkInteger(-5, 3));
+console.log(checkInteger(-5, 1));
 console.log(checkInteger(5, 3));
 console.log(checkInteger(5, -3));

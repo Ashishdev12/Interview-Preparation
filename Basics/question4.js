@@ -9,12 +9,15 @@ let side3 = parseInt(prompt("Enter side 3"));
 // calculate the semi-parameter
 
 let  s = (side1 + side2 + side3 ) / 2;
+console.log(s);
 
 // calculate the area
 
 // let area = Math.sqrt(s * ((s - side1) * (s - side2) * (s - side3)));
 
 let area = Math.sqrt(s * (s - side1)  * (s - side2) * (s - side3));
+                    
+
 
 console.log(`The are of the triangle is ${area}`);
 

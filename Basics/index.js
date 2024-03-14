@@ -47,3 +47,13 @@ Expected Output :
 // 19. Write a JavaScript program to check whether a given integer is within 20 of 100 or 400.  
 
 // 20. Write a JavaScript program to check two given integers whether one is positive and another one is negative.  
+
+// 21. Write a JavaScript program to create another string by adding "Py" in front of a given string. If the given string begins with "Py" return the original string.  
+
+// 22. Write a JavaScript program to remove a character at the specified position in a given string and return the modified string.  
+
+// 23. Write a JavaScript program to create a new string from a given string by changing the position of the first and last characters. The string length must be broader than or equal to 1. 
+
+// 24. Write a JavaScript program to create another string from a given string with the first character of the given string added to the front and back.
+
+// 25. Write a JavaScript program to check whether a given positive number is a multiple of 3 or 7. 

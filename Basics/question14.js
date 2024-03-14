@@ -13,7 +13,7 @@ console.log(filename.split(".").pop());
 function getFileExtension(str)
 {
 let splittedStr = str.split('.')
-return splittedStr[splittedStr.length - 1]
+return splittedStr[splittedStr.length -2]; 
 }
 
 console.log(getFileExtension("system.php"))

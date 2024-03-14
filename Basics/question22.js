@@ -9,7 +9,7 @@ function removeChart(index, element){
 }
 
 // console.log(removeChart('python', 0));
-console.log(removeChart('python', 1));
+console.log(removeChart('python', 2));
 // console.log(removeChart('python', 2));
 
 function remove(string, index){

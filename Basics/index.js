@@ -77,36 +77,3 @@ Expected Output :
 // 34. Write a JavaScript program to find the largest number from the two given positive integers. The two numbers are in the range 40..60 inclusive. 
 
 // 35. Write a program to check whether a specified character exists between the 2nd and 4th positions in a given string.
-
-// 36. Write a JavaScript program that checks whether the last digit of three positive integers is the same. 
-
-// 37. Write a JavaScript program to produce a new string that has the first 3 characters in lower case from a given string. If the string length is less than 3 convert all the characters to upper case. 
-
-/* 38. Write a JavaScript program to evaluate a student's total marks across various examinations and determine their grade. The grading criteria are as follows:
-If the total marks fall within the range of 89 to 100 (inclusive), the student receives an A+ grade.
-If the examination is labeled as "Final-exam," the student will receive an A+ grade only if their total marks are 90 or greater. Assume that final examination means we pass 'true' as second parameter otherwise blank.
-If the student achieves an A+ grade, the program should return 'true'; otherwise, it should return 'false'. */
-
-// 39. Write a JavaScript program to compute the sum of the two given integers. If the sum is in the range 50..80 return 65 otherwise return 80.
-
-// 40. Write a JavaScript program to check from two given integers whether one of them is 8 or their sum or difference is 8.
-
-// 41. Write a JavaScript program to check a set of three numbers; if the three numbers are the same return 30; otherwise return 20; and if two numbers are the same return 40. 
-
-// 42. Write a JavaScript program to check whether three given numbers are increasing in strict or in soft mode.  Note: Strict mode -> 10, 15, 31 : Soft mode -> 24, 22, 31 or 22, 22, 31
-
-// 43. Write a JavaScript program to check from three given numbers (non negative integers) that two or all of them have the same rightmost digit.  
-
-// 44. Write a JavaScript program that evaluates three given integers to determine if any one of them is greater than or equal to 20 and less than at least one of the other two
- 
-// 45. Write a JavaScript program that checks two integer values and returns true if either one is 15 or if their sum or difference is 15.  
-
-// 46. Write a JavaScript program to check two given non-negative integers if one (not both) is a multiple of 7 or 11.
-
-// 47. Write a JavaScript program to check whether a given number exists in the range 40..10000.  For example 40 presents in 40 and 4000
-
-// 48. Write a JavaScript program to reverse a given string.  
-
-// 49. Write a JavaScript program to replace every character in a given string with the character following it in the alphabet.  
-
-// 50. Write a JavaScript program to capitalize the first letter of each word in a given string. 

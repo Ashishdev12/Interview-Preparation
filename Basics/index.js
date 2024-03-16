@@ -77,3 +77,16 @@ Expected Output :
 // 34. Write a JavaScript program to find the largest number from the two given positive integers. The two numbers are in the range 40..60 inclusive. 
 
 // 35. Write a program to check whether a specified character exists between the 2nd and 4th positions in a given string.
+
+// 36. Write a JavaScript program that checks whether the last digit of three positive integers is the same.  
+
+// 37. Write a JavaScript program to produce a new string that has the first 3 characters in lower case from a given string. If the string length is less than 3 convert all the characters to upper case.  
+
+/* Write a JavaScript program to evaluate a student's total marks across various examinations and determine their grade. The grading criteria are as follows:
+If the total marks fall within the range of 89 to 100 (inclusive), the student receives an A+ grade.
+If the examination is labeled as "Final-exam," the student will receive an A+ grade only if their total marks are 90 or greater. Assume that final examination means we pass 'true' as second parameter otherwise blank.
+If the student achieves an A+ grade, the program should return 'true'; otherwise, it should return 'false'.*/
+
+// 39. Write a JavaScript program to compute the sum of the two given integers. If the sum is in the range 50..80 return 65 otherwise return 80
+
+// 40. Write a JavaScript program to check from two given integers whether one of them is 8 or their sum or difference is 8.  

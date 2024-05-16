@@ -68,4 +68,37 @@
 
 // 85. Write a JavaScript program to divide a given array of positive integers into two parts. First element belongs to the first part, second element belongs to the second part, and third element belongs to the first part and so on. Now compute the sum of two parts and store it in an array of size two.  
 
-// 
+/* 86. Write a JavaScript program to find the types of a given angle.  
+Types of angles:
+Acute angle: An angle between 0 and 90 degrees.
+Right angle: An 90 degree angle.
+Obtuse angle: An angle between 90 and 180 degrees.
+Straight angle: A 180 degree angle. */
+
+// 87. Write a JavaScript program to determine if two arrays of integers of the same length are similar. The arrays will be similar if one array can be obtained from another array by swapping at most one pair of elements.  
+
+// 88. Write a JavaScript program that takes two integers and a divisor. If the given divisor divides both integers and does not divide either, two specified integers are similar. Check whether two integers are similar or not.  
+
+// 89. Write a JavaScript program to check whether it is possible to replace $ in a given expression x $ y = z with one of the four signs +, -, * or / to obtain a correct expression. For example x = 10, y = 30 and z = 300, we can replace $ with a multiple operator (*) to obtain x * y = z
+
+// 90. Write a JavaScript program to find the kth greatest element in a given array of integers.  
+
+// 91. Write a JavaScript program to find the maximum possible sum of some of its k consecutive numbers (numbers that follow each other in order) in a given array of positive integers. 
+
+// 92. Write a JavaScript program to find the maximum difference between any two adjacent elements of a given array of integers. 
+
+// 93. Write a JavaScript program to find the maximum difference among all possible pairs of a given array of integers.
+
+// 94. Write a JavaScript program to find the number appearing most frequently in a given array of integers. 
+
+// 95. Write a JavaScript program to replace all numbers with a specified number in an array of integers. 
+
+// 96. Write a JavaScript program to compute the sum of the absolute differences of consecutive numbers in a given array of integers. 
+
+// 97. Write a JavaScript program to find the shortest possible string. This can be converted into a string and converted into a palindrome by adding characters to the end of it. 
+
+// 98. Write a JavaScript program to change the case of the minimum number of letters to make a given string written in upper case or lower case. Fox example "Write" will be write and "PHp" will be "PHP"
+
+// 99. Write a JavaScript program to check whether it is possible to rearrange the characters of a given string. This is in such a way that it will become equal to another given string. 
+
+// 100. Write a JavaScript program to check if there is at least one element in two given sorted arrays of integers. 

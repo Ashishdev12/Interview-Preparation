@@ -12,3 +12,13 @@
 
 // What is Asymptotic Analysis
 // Asymptotic Analysis is used to find which solution is good for solving the problem 
+
+
+// Problem solving and logic building
+
+// Understand Complete Problem.
+// Find Solution in General Way.
+// Break the Problem in parts.
+// Think Coding Solution.
+// Re-Analyze Solution.
+// Then Write Code.

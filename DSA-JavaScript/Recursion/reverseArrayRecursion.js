@@ -7,9 +7,9 @@ function reverseArray(arr, start, end) {
     console.log(arr);
     
   if (start <= end) {
-    temp = arr[start];
-    arr[start] = arr[end];
-    arr[end] = temp;
+    temp = arr[start];//0
+    arr[start] = arr[end]; //0 - 4
+    arr[end] = temp; // 4 - 0
     reverseArray(arr, start + 1, end - 1);
   }
 }

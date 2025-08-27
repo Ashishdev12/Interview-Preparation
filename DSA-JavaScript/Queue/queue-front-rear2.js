@@ -1,6 +1,6 @@
 // https://www.youtube.com/watch?v=Ao2VwQSy8zY&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7&index=21
 
-
+//FIFO
 
 let data = [];
 let currentSize = data.length;

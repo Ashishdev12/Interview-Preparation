@@ -25,7 +25,7 @@ function sortElement(num){
 }
 
 const result = sortElement(arr);
-console.log(result);
+console.log(result);  // [12,24,30,40]
 
 
 // i ==0   j == 0, 1,2,3
